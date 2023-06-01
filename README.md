@@ -1,5 +1,6 @@
 
 # Multiplayer Lobby Asset
+Unity version: 2021.3.7f1
 
 Asset presentation: https://youtu.be/ozUm8ABtvFo     (10.05.2023)
 
